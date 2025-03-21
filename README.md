@@ -22,9 +22,10 @@ I’m a **MERN stack developer in training**, passionate about building modern w
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 📫 Connect with Me
-[![GitHub]https://github.com/azharfarhann
+[![GitHub] https://github.com/azharfarhann
 
 ### 📊 GitHub Stats
-![Azhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Azhar's GitHub Stats] [![Azhar's GitHub Streak](https://streak-stats.demolab.com/?user=azharfarhann&theme=tokyonight)](https://github.com/azharfarhann)
+
 
 🔥 **Keep Learning, Keep Coding!**
