@@ -1,4 +1,4 @@
-### Hi there, I'm Azhar Farhan Syed! 👋
+### Hi there, I'm Azhar Farhan! 👋
 
 I’m a **MERN stack developer in training**, passionate about building modern web applications. I enjoy learning and working on projects that enhance my skills in **JavaScript, React, Node.js, Express, and MongoDB**.
 
